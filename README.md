@@ -1,2 +1,7 @@
-# demo-sportclub-obras-alcorta
-Demo web para SportClub Obras Alcorta — diseñada por eterlab.
+# SportClub Obras Alcorta
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
